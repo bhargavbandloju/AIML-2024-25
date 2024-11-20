@@ -9,3 +9,5 @@
 #Lab04(https://github.com/bhargavbandloju/AIML-2024-25/blob/main/Lab04-AIML.ipynb)
 
 #Lab05(https://github.com/bhargavbandloju/AIML-2024-25/blob/main/Lab05-AIML.ipynb)
+
+#LAB06(https://github.com/bhargavbandloju/AIML-2024-25/blob/main/Lab06_AIML.ipynb)
